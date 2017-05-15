@@ -1,4 +1,4 @@
-# ReproducibleScience
+# Reproducible scripting in Science
 Workshop on Reproducible Science using Jupyter notebooks
 
 ## Resources that are used in this class
