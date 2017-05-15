@@ -30,6 +30,7 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
     * [origin=False]
     * commit the code to the repository with a **different** tag
     * check out the versions on github
+    * https://github.com/UBEC/ReproducibleResearch/compare/v3.0...v3.1
 
 **GIT code example**
 ~~~ bash
