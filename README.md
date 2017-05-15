@@ -27,10 +27,10 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
     * edit the code to perform the desired analysis on the Human IDs
     * commit the code to the repository with a tag
 ~~~ bash
-git commit -m "ID version"
 git tag -a v1.4 -m "ID version"
-git push
+git push origin v1.4
 ~~~
+
     * run analysis again with different settings for **Mouse**
     * [origin=False]
     * commit the code to the repository with a **different** tag
@@ -47,7 +47,7 @@ git push
 ## Tips & Tricks
 * https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
-**Use Git aware text-editors for libraries/readme's etc.**
+**Use Git aware text-editors for libraries/readmes etc**
 * https://help.github.com/articles/associating-text-editors-with-git/
     * https://atom.io/
 
