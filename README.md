@@ -9,9 +9,9 @@ Workshop on Reproducible Science using Jupyter notebooks
 ---
 ## Tips & Tricks
 Do not put eveything under gitcontrol:
-'''bash
+~~~ bash
 echo ".ipynb_checkpoints" >> .gitignore
-'''
+~~~
 
 ---
 ## Example of a notebook we use in teaching
