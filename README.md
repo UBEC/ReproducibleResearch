@@ -26,15 +26,16 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
     * open **VersionedNotebook** through jupyter interface
     * edit the code to perform the desired analysis on the Human IDs
     * commit the code to the repository with a tag
-~~~ bash
-git tag -a v1.4 -m "ID version"
-git push origin v1.4
-~~~
-
     * run analysis again with different settings for **Mouse**
     * [origin=False]
     * commit the code to the repository with a **different** tag
     * check out the versions on github
+
+**GIT code example**
+~~~ bash
+git tag -a v1.4 -m "ID version"
+git push origin v1.4
+~~~
 
 4. **bio-break**
 
