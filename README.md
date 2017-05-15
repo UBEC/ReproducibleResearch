@@ -3,7 +3,7 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 ## Resources that are used in this class
 * https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
-  * https://github.com/Reproducible-Science-Curriculum
+    * https://github.com/Reproducible-Science-Curriculum
 
 * https://github.com/sara-nl/jupyter-bigdata-notebooks
 
@@ -33,7 +33,7 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 **Use Git aware text-editors for libraries/readme's etc.**
 * https://help.github.com/articles/associating-text-editors-with-git/
-  * https://atom.io/
+    * https://atom.io/
 
 **Do not put everything under git control:**
 ~~~ bash
@@ -51,4 +51,6 @@ echo ".ipynb_checkpoints" >> .gitignore
 ## Further reading
 * https://ropensci.github.io/reproducibility-guide/
 * https://github.com/jupyter/notebook
+
+## More on getting started
 * https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/getting_started_with_jupyter_notebooks.ipynb
