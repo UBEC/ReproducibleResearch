@@ -1,5 +1,5 @@
-# Reproducible scripting in Science
-Workshop on Reproducible Science using Jupyter notebooks
+# Coding for Reproducible Research
+Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 ## Resources that are used in this class
 * https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
@@ -14,7 +14,7 @@ Workshop on Reproducible Science using Jupyter notebooks
 
 ## The outline for today:
 1. Get code ready in your environment
-  * https://github.com/UBEC/ReproducibleScience/blob/master/Prepping_RS_Workshop.ipynb
+  * https://github.com/UBEC/ReproducibleResearch/blob/master/Prepping_RS_Workshop.ipynb
 
 2. Go through Data carpentry intro
   * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
