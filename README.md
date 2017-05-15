@@ -7,8 +7,23 @@ Workshop on Reproducible Science using Jupyter notebooks
 
 * https://github.com/sara-nl/jupyter-bigdata-notebooks
 
-**Example of a notebook we use in teaching bioinformatics**
+## Example of a notebook we use in teaching bioinformatics
 * https://github.com/UMCUGenetics/BachelorBfx
+
+---
+
+## The outline for today:
+* Get code ready in your environment
+  * https://github.com/UBEC/ReproducibleScience/blob/master/Prepping_RS_Workshop.ipynb
+
+* Go through Data carpentry intro
+  * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
+  * introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
+
+**bio-break**
+* See some SPARK in action
+  * jupyter-bigdata-notebooks/notebooks/02-spark-intro.ipynb
+  * jupyter-bigdata-notebooks/notebooks/03-spark-dataframes.ipynb
 
 ---
 
@@ -35,3 +50,4 @@ echo ".ipynb_checkpoints" >> .gitignore
 ## Further reading
 * https://ropensci.github.io/reproducibility-guide/
 * https://github.com/jupyter/notebook
+* https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/getting_started_with_jupyter_notebooks.ipynb
