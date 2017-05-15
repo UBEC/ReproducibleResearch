@@ -10,7 +10,12 @@ Workshop on Reproducible Science using Jupyter notebooks
 ---
 
 ## Tips & Tricks
-Do not put everything under git control:
+
+**Use Git aware text-editors for libraries/readme's etc.**
+* https://help.github.com/articles/associating-text-editors-with-git/
+  * https://atom.io/
+
+**Do not put everything under git control:**
 ~~~ bash
 echo ".ipynb_checkpoints" >> .gitignore
 ~~~
