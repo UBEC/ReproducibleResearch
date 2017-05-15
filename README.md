@@ -6,9 +6,15 @@ Workshop on Reproducible Science using Jupyter notebooks
   * https://github.com/Reproducible-Science-Curriculum
   
 * https://github.com/sara-nl/jupyter-bigdata-notebooks
+---
+## Tips & Tricks
+Do not put eveything under gitcontrol:
+'''bash
+echo ".ipynb_checkpoints" >> .gitignore
+'''
 
-
-### Example of a notebook we use in teaching
+---
+## Example of a notebook we use in teaching
 * https://github.com/UMCUGenetics/BachelorBfx
 
 ---
