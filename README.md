@@ -7,5 +7,6 @@ Workshop on Reproducible Science using Jupyter notebooks
   
 * https://github.com/sara-nl/jupyter-bigdata-notebooks
 
+
 ### Example of a notebook we use in teaching
 * https://github.com/UMCUGenetics/BachelorBfx
