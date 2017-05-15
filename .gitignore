@@ -1,2 +1,4 @@
 # iPython notebook
 .ipynb_checkpoints
+# apple gunk
+.DS_Store

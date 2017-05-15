@@ -2,9 +2,9 @@
 Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 ## Resources that are used in this class
+* https://github.com/UBEC/ReproducibleResearch/
 * https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
     * https://github.com/Reproducible-Science-Curriculum
-
 * https://github.com/sara-nl/jupyter-bigdata-notebooks
 
 ## Example of a notebook we use in teaching bioinformatics
@@ -20,9 +20,25 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
     * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
     * introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
 
-3. **bio-break**
+3. A versioned jupyter notebook
+    * fork https://github.com/UBEC/ReproducibleResearch
+    * clone **your own version** of ReproducibleResearch
+    * open **VersionedNotebook** through jupyter interface
+    * edit the code to perform the desired analysis on the Human IDs
+    * commit the code to the repository with a tag
+~~~ bash
+git commit -m "ID version"
+git tag -a v1.4 -m "ID version"
+git push
+~~~
+    * run analysis again with different settings for **Mouse**
+    * [origin=False]
+    * commit the code to the repository with a **different** tag
+    * check out the versions on github
 
-4. See some SPARK in action
+4. **bio-break**
+
+5. See some SPARK in action
     * jupyter-bigdata-notebooks/notebooks/02-spark-intro.ipynb
     * jupyter-bigdata-notebooks/notebooks/03-spark-dataframes.ipynb
 
@@ -50,7 +66,10 @@ echo ".ipynb_checkpoints" >> .gitignore
 
 ## Further reading
 * https://ropensci.github.io/reproducibility-guide/
+* https://git-scm.com/book/en/v2/
+    * https://git-scm.com/book/en/v2/Git-Basics-Tagging
 * https://github.com/jupyter/notebook
+* https://github.com/tanghaibao/goatools
 
 ## More on getting started
 * https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/getting_started_with_jupyter_notebooks.ipynb
