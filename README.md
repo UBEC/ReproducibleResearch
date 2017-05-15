@@ -10,3 +10,9 @@ Workshop on Reproducible Science using Jupyter notebooks
 
 ### Example of a notebook we use in teaching
 * https://github.com/UMCUGenetics/BachelorBfx
+
+---
+
+
+## Further reading
+* https://ropensci.github.io/reproducibility-guide/
