@@ -13,15 +13,16 @@ Workshop on Reproducible Science using Jupyter notebooks
 ---
 
 ## The outline for today:
-* Get code ready in your environment
+1. Get code ready in your environment
   * https://github.com/UBEC/ReproducibleScience/blob/master/Prepping_RS_Workshop.ipynb
 
-* Go through Data carpentry intro
+2. Go through Data carpentry intro
   * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
   * introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
 
-**bio-break**
-* See some SPARK in action
+3. **bio-break**
+
+4. See some SPARK in action
   * jupyter-bigdata-notebooks/notebooks/02-spark-intro.ipynb
   * jupyter-bigdata-notebooks/notebooks/03-spark-dataframes.ipynb
 
