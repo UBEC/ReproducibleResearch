@@ -14,11 +14,11 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 ## The outline for today:
 1. Get code ready in your environment
-  * https://github.com/UBEC/ReproducibleResearch/blob/master/Prepping_RS_Workshop.ipynb
+  1. https://github.com/UBEC/ReproducibleResearch/blob/master/Prepping_RS_Workshop.ipynb
 
 2. Go through Data carpentry intro
-  * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
-  * introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
+  1. introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
+  2. introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
 
 3. **bio-break**
 
