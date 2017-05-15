@@ -14,17 +14,17 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 ## The outline for today:
 1. Get code ready in your environment
-  1. https://github.com/UBEC/ReproducibleResearch/blob/master/Prepping_RS_Workshop.ipynb
+    * https://github.com/UBEC/ReproducibleResearch/blob/master/Prepping_RS_Workshop.ipynb
 
 2. Go through Data carpentry intro
-  1. introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
-  2. introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
+    * introduction-RR-Jupyter/notebooks/Intro-to-reproducible-research.ipynb
+    * introduction-RR-Jupyter/notebooks/Jupyter_Intro_Background.ipynb
 
 3. **bio-break**
 
 4. See some SPARK in action
-  * jupyter-bigdata-notebooks/notebooks/02-spark-intro.ipynb
-  * jupyter-bigdata-notebooks/notebooks/03-spark-dataframes.ipynb
+    * jupyter-bigdata-notebooks/notebooks/02-spark-intro.ipynb
+    * jupyter-bigdata-notebooks/notebooks/03-spark-dataframes.ipynb
 
 ---
 
