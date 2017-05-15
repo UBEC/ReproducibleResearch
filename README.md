@@ -33,8 +33,9 @@ Workshop on code compatible with Reproducible Research using Jupyter notebooks
 
 **GIT code example**
 ~~~ bash
-git tag -a v1.4 -m "ID version"
-git push origin v1.4
+! git commit -a -m "ID version"
+! git tag -a v1.4 -m "ID version"
+! git push origin v1.4
 ~~~
 
 4. **bio-break**
